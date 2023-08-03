@@ -1,0 +1,44 @@
+------------------------git class1---------------------------------
+
+What is a version?
+-update
+
+Why do we need git?
+-to manage diff versions of our code
+
+What is git?
+-version control system which helps
+us to manage dif version of our code and save
+it in local repository(pc storage)
+
+Why do we need git hub?
+-backup and to share the code among our collegues
+
+What is git hub? -remote repository
+
+What is terminal?- command that can communicate with git
+
+How to navigate your terminal to intelij project?
+-know the location of your project--> net to the name of the project
+-open terminal
+-pwd-->correct location of the terminal
+-cd-->move forward to the directories;
+
+once we are in location to confirm that you're in correct-->pwd--> we have
+to compare the path of terminal and the path of the project
+
+
+
+------------------------------------------
+------------------------------------------
+
+Where should we place our repo?
+-it should be inside the project folder
+
+
+------------------------git class2---------------------------------
+
+
+
+
+

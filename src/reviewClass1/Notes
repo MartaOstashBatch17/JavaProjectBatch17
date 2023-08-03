@@ -1,0 +1,33 @@
+Variables:
+   Are like boxes/containers that hold value for us, we can charge or reuse the same variable;
+There are 8 basic primitive data types:
+
+  Four basic data types to store whole numbers:
+   -byte
+   -short
+   -int
+   -long
+
+  Two basic data types to store decimal numbers:
+   -float
+   -double
+
+  One data type to store single character:
+   -char ''
+
+  One data type to store true/false:
+   -boolean
+
+
+Non-Primitive data type:
+  -String - most widely used data type in any programming language
+
+============================================================================
+
+
+
+
+
+
+
+
