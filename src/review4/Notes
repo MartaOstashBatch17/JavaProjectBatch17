@@ -1,0 +1,42 @@
+Nested loops:
+     A nested loop is  a loop inside another loop. Nested loops are used to solve
+     complex problems in which we have nested data or we need to perform nested
+     iterations. We can nest a for loop inside a while loop or a for loop inside
+     another for loop.
+Why nested loops?-
+     We will need them to read nested data, to go through multiple
+     pages and from each page we might want to go through multiple tems.
+Syntax:
+     for (int i=0; i<10;i++){
+      for (int j=0; j<10;j++){
+         }
+      }
+
+Arrays:
+     help us store multiple objects of the same time in just one variable.
+     They are index based data structures.
+     Every item we store inside an array, is assigned a number that is called index.
+     Whenever we want to get any value from the array, we provide that index.
+Why we should use arrays?
+     WE can use multiple variables as well tto store multiple items.
+     But when the data is large, it's almost impossible to handle the variables.
+     Imagine we have to store the names of all the ppl  living in NYC.
+Syntax:
+     There are 2 ways of creating an array:
+     1) DataType [] arrayName={element1, element2...};
+     E.g. int[]ages={23,25,28,33,20};
+     2) DataType[] arrayName=new DataType[size];
+     E.g int[]ages=new int[5];
+     ages[0]=25;
+     ages[1]=25;
+     ages[2]=45;
+     ages[3]=75;
+     ages[4]=22;
+     ages[5]=21;
+
+
+
+
+
+
+

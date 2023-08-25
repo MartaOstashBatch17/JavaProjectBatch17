@@ -1,0 +1,43 @@
+Operators:
+Operators are symbols  to perform an operation on data.
+Types:
+
+* Arithmetic Operators - help us perform simple mathematical operations-
+     -addition +
+     -subtraction -
+     -multiplication *
+     -division /
+     -modulus %
+
+* Shorthand Operators - perform the same operations but make is easier,
+using little shorter syntax
+     -add and update a variable += (eg int a=10, a+=20 , a=30);
+     -subtract and update a variable -= (eg int a=10, a-=20 , a=-10);
+     -multiply and update a variable *= (eg int a=10, a*=20 , a=200);
+     -divide and update a variable /= (eg int a=10, a/=20 , a=0); //it's int that's why the answer is 0
+     -modulus and update a variable %= (eg int a=10, a%=20 , a=10); //if the value is smaller it will always be the answer, pizza example
+
+
+* Relational Operators - these operators help us to compare things:
+     == checks is two objects are equal
+     != checks is two objects are not equal
+     > grater than
+     < les than
+     >= grater than equal to
+     <= less than equal to
+
+* Logical operators - help us to combine multiple boolean conditions
+     ! NOT
+     || OR
+     && AND
+
+* Increment/decrement operators:
+     ++ this will help us to increase the value of a variable by 1
+     -- this will help us to decrease the value of a variable by 1
+
+ While loop checks the cond first then executes teh code
+ Do While executes the code and then checks the condition
+
+  Sometimes when we write the logic using do while it becomes easier.
+  There are no other differences and reasons to use a do while instead of while
+
