@@ -1,4 +1,4 @@
-package reviewClass1;
+package review1;
 
 public class E5ShortHandOperators {
     private static int age;
